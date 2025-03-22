@@ -1,23 +1,21 @@
 # Proyecto-Fase-I
 En este repositorio se encuentra el codigo fuente del programa y el readme.
 
-Gestor de Stock para E-Commerce
-
+GESTOR DE STOCK PARA E-COMMERCE
 En los e-commerce, las ofertas y descuentos son estrategias clave para atraer clientes, aumentar ventas y gestionar inventarios antiguos.
 
-1.	Funcionamiento del Sistema:
-El sistema utiliza estructura de datos como colas y pilas para optimizar la gestión del stock:
+1.	Funcionamiento del Sistema: El sistema utiliza estructura de datos como colas y pilas para optimizar la gestión del stock:
 •	Colas (FIFO – First In, First Out): para manejar pedidos en orden de llegada.
 •	Pilas (LIFO – Last In, First Out): Para estrategias de liquidación y gestionar productos con fechas de caducidad
 •	Algoritmo de optimización de descuento: Para aplicar descuentos en función del nivel de stock y demanda
-
+      
 2.	Requisitos Técnicos
 •	Lenguaje de programación: C#
 •	Base de datos: SQL Server
 •	Framework: .NET
 •	Dependencias:
-	Entity Framework
-	NewTonsoft.Jason
+   	Entity Framework
+   	NewTonsoft.Jason
 
 3.	Instalación y Configuración
 a.	Clonar el repositorio:
